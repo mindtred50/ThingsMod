@@ -1,0 +1,48 @@
+Things Mod - 1.12.2 - By PolarDuckling 
+
+Items:
+
+item.ct1.name=Tier 1 Upgrade
+item.ct2.name=Tier 2 Upgrade
+item.ct3.name=Tier 3 Upgrade
+item.ct4.name=Tier 4 Upgrade
+
+item.bearhide.name=Bear Hide
+
+item.voidmetal.name=Void Metal
+item.voidcore.name=Void Core
+
+Armors:
+
+item.voidhelmet.name=Void Helmet
+item.voidchestplate.name=Void Chestplate
+item.voidleggings.name=Void Leggings
+item.voidboots.name=Void Boots
+
+item.tgh.name=Cowboy Hat
+
+Tools:
+
+item.cp0.name=Pan Fragment
+item.cp1.name=Basic Pan
+item.cp2.name=Apprentice Pan
+item.cp3.name=Pan
+item.cp4.name=Executive Pan
+
+item.voidpickaxe.name=Void Pickaxe
+item.voidaxe.name=Void Axe
+item.voidhoe.name=Void Hoe
+item.voidshovel.name=Void Shovel
+item.voidsword.name=Void Sword
+
+Blocks:
+
+tile..name=
+
+Entitys:
+
+entity.bear.name=Bear
+
+Tabs:
+
+itemGroup.mwtab=My Word
